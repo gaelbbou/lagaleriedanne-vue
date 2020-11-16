@@ -7,7 +7,7 @@
 					id="header-logo"
 					class="float-left link link-theme text-secondary"
 					to="/"
-				>Anne Bouvyer</router-link>
+				>Anne's Gallery</router-link>
 
 				<!-- menu desktop -->
 				<ul
